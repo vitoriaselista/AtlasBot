@@ -1,4 +1,4 @@
-Atlas Bot
+**Atlas Bot**
 
 Overview
 
